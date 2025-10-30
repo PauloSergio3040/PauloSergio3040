@@ -114,6 +114,6 @@ Estou aprofundando meus estudos em SQL e suas variações (MySQL, SQL Server, Or
         align="left" 
         alt="GitHub Stats" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio3040&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergio3040&theme=dracula&layout=donut"
     />
 </p>
