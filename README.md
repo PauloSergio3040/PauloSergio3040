@@ -6,8 +6,7 @@
 
 🧭 Planeje em silêncio. Execute com precisão.
 
-💻 Zona de operações especiais em tecnologia.
-🎯 Em transição do e-commerce para TI, com foco em SQL, banco de dados e fundamentos sólidos.
+💻 Zona de operações especiais em tecnologia. Em transição do e-commerce para TI, com foco em SQL, banco de dados e fundamentos sólidos.
 
 🎯 Missão
 
