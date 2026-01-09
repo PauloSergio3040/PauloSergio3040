@@ -1,6 +1,7 @@
 # Paulo Brito
  
  **`Desenvolvedor Back End`**
+ 
 🦭 NAVY SEAL | OPERAÇÕES EM TI
 
 🧭 Planeje em silêncio. Execute com precisão.
@@ -9,8 +10,11 @@
 🎯 Em transição do e-commerce para TI, com foco em SQL, banco de dados e fundamentos sólidos.
 
 🎯 Missão
+
 🔹 Dominar SQL
+
 🔹 Construir sistemas confiáveis
+
 🔹 Eliminar bugs sem deixar rastros
 
 🎒 Equipamento tático
