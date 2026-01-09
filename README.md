@@ -1,67 +1,37 @@
 # Paulo Brito
  
  **`Desenvolvedor Back End`**
+🦭 NAVY SEAL | OPERAÇÕES EM TI
 
-🦭 NAVY SEAL | OPERAÇÕES ESPECIAIS EM TI
+Planeje em silêncio. Execute com precisão.
 
-“Planeje em silêncio. Execute com precisão. Commit sem barulho.”
+Zona de operações especiais em tecnologia.
+Em transição estratégica do e-commerce para TI, com foco em SQL, banco de dados e fundamentos sólidos.
 
-Este repositório é uma zona de operações especiais.
-Cada projeto aqui foi executado com disciplina, foco e respeito à cadeia de comando: lógica → dados → código.
+🎯 Missão
 
-Atualmente em transição estratégica do e-commerce para operações especiais em Tecnologia da Informação, com especialização progressiva em banco de dados, SQL e arquitetura sólida.
-Nada de fogo amigo entre tabelas. Nada de dados perdidos em combate.
+Dominar SQL
 
-🎯 MISSÃO ATUAL
-
-Dominar SQL em ambiente hostil
-
-Projetar bancos de dados que resistam a ataques de uso real
-
-Ler documentação como quem lê um mapa de infiltração
+Construir sistemas confiáveis
 
 Eliminar bugs sem deixar rastros
 
-🧠 TREINAMENTO SEAL
+🎒 Equipamento Tático
 
-Repetição até virar reflexo
+SQL
 
-Falha analisada, documentada e corrigida
+Modelagem de dados
 
-Código testado antes de entrar em produção
+Git/GitHub
 
-Pressão simulada (aka prazos curtos)
+Lógica
 
-🎒 EQUIPAMENTO TÁTICO PADRÃO
+Café preto ☕
 
-SQL – armamento primário
+🧠 Doutrina
 
-Modelagem de Dados – estratégia de infiltração
-
-Git / GitHub – registro oficial das operações
-
-Lógica – visão noturna
-
-Café preto – combustível operacional
-
-🧭 PROTOCOLO DE COMBATE
-
-Sem gambiarra em território aliado
-
-Sem deploy sem verificação
-
-Sem ego acima do sistema
-
-Código limpo é sobrevivência
-
-🕶️ FILOSOFIA SEAL
-
-Trabalhar em silêncio.
-Aprender todos os dias.
-Entregar quando importa.
-
-Se algo quebre, a missão continua.
-Se algo falhe, o operador evolui.
+Disciplina acima de atalhos.
+Código limpo é sobrevivência.
 
 📡 STATUS OPERACIONAL
 
