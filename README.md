@@ -2,10 +2,82 @@
  
  **`Desenvolvedor Back End`**
 
+🦭 NAVY SEAL | OPERAÇÕES ESPECIAIS EM TI
 
-Eu me chamo Paulo Sergio Brito Viana, atuo na área de Tecnologia da Informação, com formação técnica em Desenvolvimento de Sistemas pela ETEC H.A.S. e atualmente cursando o tecnólogo em Banco de Dados. Tenho como meta me especializar como Administrador de Banco de Dados (DBA), unindo conhecimentos de modelagem, segurança, otimização e infraestrutura de dados.
+“Planeje em silêncio. Execute com precisão. Commit sem barulho.”
 
-Estou aprofundando meus estudos em SQL e suas variações (MySQL, SQL Server, Oracle e NoSQL), com foco na certificação Oracle Certified Associate (OCA). Busco constantemente aprimorar minhas habilidades técnicas e analíticas para atuar na construção e manutenção de ambientes de dados eficientes, seguros e escaláveis.
+Este repositório é uma zona de operações especiais.
+Cada projeto aqui foi executado com disciplina, foco e respeito à cadeia de comando: lógica → dados → código.
+
+Atualmente em transição estratégica do e-commerce para operações especiais em Tecnologia da Informação, com especialização progressiva em banco de dados, SQL e arquitetura sólida.
+Nada de fogo amigo entre tabelas. Nada de dados perdidos em combate.
+
+🎯 MISSÃO ATUAL
+
+Dominar SQL em ambiente hostil
+
+Projetar bancos de dados que resistam a ataques de uso real
+
+Ler documentação como quem lê um mapa de infiltração
+
+Eliminar bugs sem deixar rastros
+
+🧠 TREINAMENTO SEAL
+
+Repetição até virar reflexo
+
+Falha analisada, documentada e corrigida
+
+Código testado antes de entrar em produção
+
+Pressão simulada (aka prazos curtos)
+
+🎒 EQUIPAMENTO TÁTICO PADRÃO
+
+SQL – armamento primário
+
+Modelagem de Dados – estratégia de infiltração
+
+Git / GitHub – registro oficial das operações
+
+Lógica – visão noturna
+
+Café preto – combustível operacional
+
+🧭 PROTOCOLO DE COMBATE
+
+Sem gambiarra em território aliado
+
+Sem deploy sem verificação
+
+Sem ego acima do sistema
+
+Código limpo é sobrevivência
+
+🕶️ FILOSOFIA SEAL
+
+Trabalhar em silêncio.
+Aprender todos os dias.
+Entregar quando importa.
+
+Se algo quebre, a missão continua.
+Se algo falhe, o operador evolui.
+
+📡 STATUS OPERACIONAL
+
+☑ Em treinamento avançado
+
+☑ Foco total em fundamentos
+
+☐ Missão final concluída (classificado)
+
+🏴‍☠️ AVISO AO LEITOR
+
+Este repositório não é vitrine.
+É campo de treinamento real.
+
+Entre por curiosidade.
+Fique pelo respeito ao código bem feito.
 
 <p align="left">
         <img 
