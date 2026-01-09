@@ -3,43 +3,26 @@
  **`Desenvolvedor Back End`**
 🦭 NAVY SEAL | OPERAÇÕES EM TI
 
-Planeje em silêncio. Execute com precisão.
+🧭 Planeje em silêncio. Execute com precisão.
 
-Zona de operações especiais em tecnologia.
-Em transição estratégica do e-commerce para TI, com foco em SQL, banco de dados e fundamentos sólidos.
+💻 Zona de operações especiais em tecnologia.
+🎯 Em transição do e-commerce para TI, com foco em SQL, banco de dados e fundamentos sólidos.
 
 🎯 Missão
+🔹 Dominar SQL
+🔹 Construir sistemas confiáveis
+🔹 Eliminar bugs sem deixar rastros
 
-Dominar SQL
-
-Construir sistemas confiáveis
-
-Eliminar bugs sem deixar rastros
-
-🎒 Equipamento Tático
-
-SQL
-
-Modelagem de dados
-
-Git/GitHub
-
-Lógica
-
-Café preto ☕
+🎒 Equipamento tático
+🧨 SQL
+🗺️ Modelagem de dados
+📡 Git / GitHub
+🧠 Lógica
+☕ Café preto
 
 🧠 Doutrina
-
-Disciplina acima de atalhos.
-Código limpo é sobrevivência.
-
-📡 STATUS OPERACIONAL
-
-☑ Em treinamento avançado
-
-☑ Foco total em fundamentos
-
-☐ Missão final concluída (classificado)
+⚔️ Disciplina acima de atalhos.
+🧼 Código limpo é sobrevivência.
 
 🏴‍☠️ AVISO AO LEITOR
 
