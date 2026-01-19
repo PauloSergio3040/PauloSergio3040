@@ -1,6 +1,6 @@
 # Paulo Brito
  
- **`Desenvolvedor Back End`**
+ **`Desenvolvedor Back End  e amante da estetica militar`**
  
 🦭 NAVY SEAL | OPERAÇÕES EM TI
 
@@ -31,9 +31,6 @@
 
 Este repositório não é vitrine.
 É campo de treinamento real.
-
-Entre por curiosidade.
-Fique pelo respeito ao código bem feito.
 
 <p align="left">
         <img 
