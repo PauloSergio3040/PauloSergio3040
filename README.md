@@ -1,8 +1,8 @@
 # Paulo Brito
  
- **`Desenvolvedor Back End  e amante da estetica militar`**
+ **`Desenvolvedor Back End`**
  
-🦭 NAVY SEAL | OPERAÇÕES EM TI
+Operações em TI
 
 🧭 Planeje em silêncio. Execute com precisão.
 
