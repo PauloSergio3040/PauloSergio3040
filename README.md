@@ -1,36 +1,43 @@
-# Paulo Brito
- 
- **`Desenvolvedor Back End`**
- 
-Operações em TI
+Paulo Brito
 
-🧭 Planeje em silêncio. Execute com precisão.
+Foco em Business Intelligence (BI)
 
-💻 Zona de operações especiais em tecnologia. Em transição do e-commerce para TI, com foco em SQL, banco de dados e fundamentos sólidos.
+Profissional em transição da área de e-commerce para Tecnologia da Informação, com formação técnica em Desenvolvimento de Sistemas e especialização em Banco de Dados. Busco oportunidade na área de BI, com foco em análise de dados, construção de dashboards e geração de insights para tomada de decisão.
 
-🎯 Missão
+🎯 Objetivo Profissional
 
-🔹 Dominar SQL
+Atuar na área de Business Intelligence, aplicando conhecimentos em:
 
-🔹 Construir sistemas confiáveis
+- SQL e manipulação de dados
+- Modelagem de dados
+- Análise exploratória e interpretação de informações
+- Construção de relatórios e dashboards
+🧠 Formação
+- Técnico em Desenvolvimento de Sistemas
+- Curso de Banco de Dados
+- Estudos contínuos em SQL, análise de dados e BI
+⚙️ Competências Técnicas
+- Banco de Dados: SQL (consultas, joins, agregações, normalização)
+- Modelagem de Dados: Estruturação e organização de bases
+- Lógica de Programação: Base sólida para resolução de problemas
+- Excel: Experiência prática com dados (e-commerce)
+📊 Em Desenvolvimento
+- Ferramentas de BI (Power BI / similares)
+- Visualização de dados
+- Projetos práticos com dados reais
+- Boas práticas de análise e storytelling com dados
+💼 Experiência
 
-🔹 Eliminar bugs sem deixar rastros
+Experiência prévia como auxiliar de e-commerce, com uso prático de Excel e contato direto com dados operacionais, contribuindo para organização e análise de informações.
 
-🎒 Equipamento tático
-🧨 SQL
-🗺️ Modelagem de dados
-📡 Git / GitHub
-🧠 Lógica
-☕ Café preto
+🚀 Sobre este Repositório
 
-🧠 Doutrina
-⚔️ Disciplina acima de atalhos.
-🧼 Código limpo é sobrevivência.
+Este repositório documenta minha evolução na área de dados, com foco em prática real e desenvolvimento contínuo. Aqui você encontrará:
 
-🏴‍☠️ AVISO AO LEITOR
-
-Este repositório não é vitrine.
-É campo de treinamento real.
+- Projetos em SQL
+- Estruturas de banco de dados
+- Exercícios práticos
+- Estudos aplicados em BI
 
 <p align="left">
         <img 
